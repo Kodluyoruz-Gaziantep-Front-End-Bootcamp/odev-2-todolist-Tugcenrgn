@@ -1,15 +1,15 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```Hafta 2 Ödev 2```
 
 # Homework 
-```Ödev```
+```Todo App```
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```React ile Todo List Uygulaması```
 
 
 ## Author
 
-```Ödevi yapan```
+```Tuğçe Nur Ergen```
