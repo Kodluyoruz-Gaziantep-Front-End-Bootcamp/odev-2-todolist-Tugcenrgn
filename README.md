@@ -1,5 +1,5 @@
-# Week - NULL
-```Hafta 2 Ödev 2```
+# Week - 2
+```Ödev 2```
 
 # Homework 
 ```Todo App```
